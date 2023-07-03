@@ -9,4 +9,4 @@ GET https://hola-codespaces-l7-nkb5.onrender.com/api/usuario/all
 POST https://hola-codespaces-L7-nkb5.onrender.com/api/usuario/add
 Content-Type: application/x-www-form-urlencoded
 
-name=Ademir&email=Ademir@gmail.com
+name=Pilar&email=Pilar@gmail.com

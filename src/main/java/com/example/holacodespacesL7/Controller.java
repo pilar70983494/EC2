@@ -11,6 +11,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class Controller{
     @GetMapping(path="/")
     public String home(){
-        return "LN73257397 - Ademir Fernandez Hernandez";
+        return "LN70983494- Pilar Espinoza Palomino";
     }
 }
